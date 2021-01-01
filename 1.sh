@@ -18,7 +18,7 @@ printf '\e[32m[\e[39m*\e[32m]\e[36m     whats your name :- \e[0m' && read name
 
 printf '\e[35m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\e[0m\n'
 
-cd /data/data/com.termux/files/home && rm MR-HKjo.sh cd /data/data/com.termux/files/hom/MR-HK1 || cd /data/data/com.termux/files/home/MR-HK1 && rm MR-HKjo.sh && touch MR-HKjo.sh || cd /data/data/com.termux/files/home/MR-HK1 && touch MR-HKjo.sh
+cd /data/data/com.termux/files/home && rm MR-HKjo.sh cd /data/data/com.termux/files/hom/MR-HK || cd /data/data/com.termux/files/home/MR-HK && rm MR-HKjo.sh && touch MR-HKjo.sh || cd /data/data/com.termux/files/home/MR-HK && touch MR-HKjo.sh
 
 echo -e """
 
